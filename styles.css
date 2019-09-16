@@ -1,0 +1,21 @@
+.header1 {
+  color: white;
+  font-size: 26px;
+  text-align: center;
+}
+
+.header {
+  padding: 14px;
+  text-align: center;
+  background: #4f9ce0;
+  color: white;
+  font-size: 26px;
+}
+
+.listitems {
+  font-size: 15px;
+}
+
+a {
+  color: blue;
+}
